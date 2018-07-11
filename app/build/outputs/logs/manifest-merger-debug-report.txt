@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b8208038f9c5272677c3a50677f292eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e7bbb9cbdd882f405aebd72520ab5b8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\cc1fe34a6aeed90a91c5e7fbd8feb0d8\AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b65e9c8678aba0e6a3f0a9a096a3f88b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\315eda577c916ae6fb591a41e0a4a965\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\03fc4cd27b8dabfac4e1a8d732435731\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\157cf69c6e6e0dd465a3746fc4100f34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\601f8b90edc2b3ebf588ae62cdd51813\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7193cf39bf28384e100abc4222d4f692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\b4c5de497c7159da5e558c6f38fc6ee1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\21736b49867948e9882e7815f1da968d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8c11f7ea98ffc5c083787d31767899e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\851e8c5cfe596dc4249f747bc61f5c0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\48f1e99c2d8af43eafe742830f9d147f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\76b54f80edd352f779aff2cf4bbe1d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\0ad6c4db31942ed0e8a7549e25f9411d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\68a62adb135fdf935c1b7051b29dcdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\0915178f2de5333c955c410218935d16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\9f899498d9c2ecb9094069e9c544b6fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\6a179b02e4a26520697be4f8636f499a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\605caec0292500b20714e2d1e08a9b1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b2a10e1d9dedaa185e1df36c2db66c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\9d218c033f63d44d3478aee283b39907\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f750444691ef0bb6f848151ebfa0b10c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\15d8a6478c6ee5dcd639391f2271e30a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f0ebef044b066a78020f0454b342167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\c86faaa8400bb3aaf2198c6b47b8ab52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\9881fda95edfd0cbc6bf994decd41d37\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eb83fc5a74cf847bd19b18d2c14afd92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\34d18564c4f52a0a4268ff6339706357\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4193ad97349bde31be51b6105e3ff68\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e74b453905245808a26813dda33778a8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:9:5-63:19
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b8208038f9c5272677c3a50677f292eb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b8208038f9c5272677c3a50677f292eb\AndroidManifest.xml:22:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\cc1fe34a6aeed90a91c5e7fbd8feb0d8\AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\cc1fe34a6aeed90a91c5e7fbd8feb0d8\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b65e9c8678aba0e6a3f0a9a096a3f88b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b65e9c8678aba0e6a3f0a9a096a3f88b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\15d8a6478c6ee5dcd639391f2271e30a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\15d8a6478c6ee5dcd639391f2271e30a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:12:9-28
+	android:icon
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:11:9-44
+	android:allowBackup
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:14:9-40
+activity#br.com.micdev.fidapp.LoginActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:15:9-18:20
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:16:13-42
+activity#br.com.micdev.fidapp.RegisterActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:20:13-45
+activity#br.com.micdev.fidapp.ResetSenhaActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:23:13-47
+activity#br.com.micdev.fidapp.MeusTicketsActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:25:9-29:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:26:13-48
+activity#br.com.micdev.fidapp.TicketInfoActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:30:9-34:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:32:13-55
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:31:13-47
+activity#br.com.micdev.fidapp.AddEventoActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:35:9-39:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:36:13-46
+activity#br.com.micdev.fidapp.ContatoActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:40:9-44:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:42:13-41
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:41:13-44
+activity#br.com.micdev.fidapp.ConfiguracoesActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:45:9-49:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:47:13-47
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:46:13-50
+activity#br.com.micdev.fidapp.AlterarDadosActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:50:9-54:47
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:52:13-42
+	android:theme
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:51:13-49
+activity#br.com.micdev.fidapp.SplashScreenActivity
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:55:9-62:20
+	android:screenOrientation
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:55:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml:60:27-74
+uses-sdk
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b8208038f9c5272677c3a50677f292eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b8208038f9c5272677c3a50677f292eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e7bbb9cbdd882f405aebd72520ab5b8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e7bbb9cbdd882f405aebd72520ab5b8f\AndroidManifest.xml:20:5-44
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\cc1fe34a6aeed90a91c5e7fbd8feb0d8\AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\library-aar-1.0.0.aar\cc1fe34a6aeed90a91c5e7fbd8feb0d8\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b65e9c8678aba0e6a3f0a9a096a3f88b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b65e9c8678aba0e6a3f0a9a096a3f88b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\315eda577c916ae6fb591a41e0a4a965\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0-alpha3.aar\315eda577c916ae6fb591a41e0a4a965\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\03fc4cd27b8dabfac4e1a8d732435731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\03fc4cd27b8dabfac4e1a8d732435731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\157cf69c6e6e0dd465a3746fc4100f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\157cf69c6e6e0dd465a3746fc4100f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\601f8b90edc2b3ebf588ae62cdd51813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\601f8b90edc2b3ebf588ae62cdd51813\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7193cf39bf28384e100abc4222d4f692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\7193cf39bf28384e100abc4222d4f692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\b4c5de497c7159da5e558c6f38fc6ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\b4c5de497c7159da5e558c6f38fc6ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\21736b49867948e9882e7815f1da968d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\21736b49867948e9882e7815f1da968d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8c11f7ea98ffc5c083787d31767899e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8c11f7ea98ffc5c083787d31767899e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\851e8c5cfe596dc4249f747bc61f5c0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0-alpha3.aar\851e8c5cfe596dc4249f747bc61f5c0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\48f1e99c2d8af43eafe742830f9d147f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\48f1e99c2d8af43eafe742830f9d147f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\76b54f80edd352f779aff2cf4bbe1d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\76b54f80edd352f779aff2cf4bbe1d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\0ad6c4db31942ed0e8a7549e25f9411d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\0ad6c4db31942ed0e8a7549e25f9411d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\68a62adb135fdf935c1b7051b29dcdc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\68a62adb135fdf935c1b7051b29dcdc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\0915178f2de5333c955c410218935d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\0915178f2de5333c955c410218935d16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\9f899498d9c2ecb9094069e9c544b6fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\9f899498d9c2ecb9094069e9c544b6fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\6a179b02e4a26520697be4f8636f499a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\6a179b02e4a26520697be4f8636f499a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\605caec0292500b20714e2d1e08a9b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\605caec0292500b20714e2d1e08a9b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5427e08c9ed814840cc8872da9d0a37e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b2a10e1d9dedaa185e1df36c2db66c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\b2a10e1d9dedaa185e1df36c2db66c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\9d218c033f63d44d3478aee283b39907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\9d218c033f63d44d3478aee283b39907\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f750444691ef0bb6f848151ebfa0b10c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f750444691ef0bb6f848151ebfa0b10c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\15d8a6478c6ee5dcd639391f2271e30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\15d8a6478c6ee5dcd639391f2271e30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f0ebef044b066a78020f0454b342167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f0ebef044b066a78020f0454b342167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\c86faaa8400bb3aaf2198c6b47b8ab52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\c86faaa8400bb3aaf2198c6b47b8ab52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\9881fda95edfd0cbc6bf994decd41d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\9881fda95edfd0cbc6bf994decd41d37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eb83fc5a74cf847bd19b18d2c14afd92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eb83fc5a74cf847bd19b18d2c14afd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\34d18564c4f52a0a4268ff6339706357\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\34d18564c4f52a0a4268ff6339706357\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4193ad97349bde31be51b6105e3ff68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4193ad97349bde31be51b6105e3ff68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e74b453905245808a26813dda33778a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\renan.mastropaolo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e74b453905245808a26813dda33778a8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\renan.mastropaolo\AndroidStudioProjects\FIDapp\app\src\main\AndroidManifest.xml

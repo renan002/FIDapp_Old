@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.micdev.fidapp"
+    android:versionCode="10"
+    android:versionName="1.1 alfa" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/fid_launcher"
+        android:label="FID"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="br.com.micdev.fidapp.LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="br.com.micdev.fidapp.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.micdev.fidapp.ResetSenhaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="br.com.micdev.fidapp.MeusTicketsActivity"
+            android:label="Tickets"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.TicketInfoActivity"
+            android:label="Informações sobre o ticket"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.AddEventoActivity"
+            android:label="Adicionar evento"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.ContatoActivity"
+            android:label="Fale conosco"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.ConfiguracoesActivity"
+            android:label="Configuções do FID"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.AlterarDadosActivity"
+            android:label="Alterar Dados"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="br.com.micdev.fidapp.SplashScreenActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.2" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="br.com.micdev.fidapp.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

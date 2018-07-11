@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.micdev.fidapp.MeusTicketsActivity"
+    tools:showIn="@layout/app_bar_meus_tickets"
+    android:paddingBottom="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/background_img_fundo"
+    style="@style/AppTheme.AppBarOverlay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewLista"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seus tickets:"
+            android:textAlignment="center"
+            android:textColor="@color/textColor"
+            android:textSize="25sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <ExpandableListView
+            android:id="@+id/listaTickets"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:childDivider="@color/listSelect"
+            android:divider="#000000"
+            android:dividerHeight="2dp"
+            android:scrollbars="horizontal">
+
+        </ExpandableListView>
+
+    </LinearLayout>
+
+</RelativeLayout>

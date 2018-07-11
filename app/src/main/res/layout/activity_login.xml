@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_img_fundo"
+    android:paddingBottom="16dp"
+    android:paddingRight="48dp"
+    android:paddingLeft="48dp"
+    android:paddingTop="16dp"
+    tools:context="br.com.micdev.fidapp.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="395dp"
+        android:layout_height="643dp"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imageViewLogo"
+            android:layout_width="match_parent"
+            android:layout_height="259dp"
+            app:srcCompat="@drawable/logo_fid" />
+
+        <TextView
+            android:id="@+id/textViewEmpresa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="By: MicDev"
+            android:textAlignment="center"
+            android:textColor="@color/textColor"/>
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            style="@style/editText_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:ems="10"
+            android:hint="E-mail"
+            android:inputType="textEmailAddress" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="25dp" />
+
+        <EditText
+            android:id="@+id/editTextSenha"
+            style="@style/editText_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:ems="10"
+            android:hint="Senha"
+            android:inputType="textPassword" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="35dp" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/buttonLogar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:text="Logar"
+            style="@style/button_style"
+            android:onClick="onClick"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="154dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonCadastro"
+                style="@style/button_style2"
+                android:layout_width="77dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:text="Cadastre-se"
+                android:onClick="abrirCadastro"/>
+
+            <Button
+                android:id="@+id/buttonEsquciSenha"
+                style="@style/button_style2"
+                android:layout_width="77dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:text="Esqueci minha senha"
+                android:textSize="9sp"
+                android:onClick="abrirReset"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

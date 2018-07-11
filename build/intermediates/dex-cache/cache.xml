@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\4f6bae0832cf31a8897ad3fe5da144d4683a898c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f187a12427273468f6bf435b6dbaa6f324ff9a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\9ff3872c6437f8297f668e6080dc2edc2a235718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cd7e3a87050578ada74bda53676991ce3a2398b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\9ff3872c6437f8297f668e6080dc2edc2a235718\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_5cd7e3a87050578ada74bda53676991ce3a2398b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\4f6bae0832cf31a8897ad3fe5da144d4683a898c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_4f187a12427273468f6bf435b6dbaa6f324ff9a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\19e2e0de177955b524479f21a7d1cb8170b66316\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_6d76ae601ec78d70d2f32634bc8010ffd4557dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\a9018f194c1388ea3773d997957cd1191dae1e6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_f5b0cf63ac62692f018afded6b6baf234ca5d551.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\19e2e0de177955b524479f21a7d1cb8170b66316\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d76ae601ec78d70d2f32634bc8010ffd4557dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\4839d765feb8b191bee62d7f6170bb4bd495a852\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_f5664c80d70c207cd1a2265aecf8bed2d88b8bf0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.2_f818b5c97e6887225d523ed3933f97466a13e41a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\4839d765feb8b191bee62d7f6170bb4bd495a852\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5664c80d70c207cd1a2265aecf8bed2d88b8bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\3bbc9bc9a8c66559b0117cc2a1086ae15baa80f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f51cf082ac8b2f6b1cfb929c6b7c184e4f929ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_f818b5c97e6887225d523ed3933f97466a13e41a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\3bbc9bc9a8c66559b0117cc2a1086ae15baa80f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_f51cf082ac8b2f6b1cfb929c6b7c184e4f929ab6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\500f8d239fbeb2e729cd71f8f5e7fb0334bdeeb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2851fe97f6e52805accdbd910f5495a70cf52c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\02fe28c5da919bf3cb61af31063b4756fd81d574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_e862c5a98686a0594044410ffb09c2a0da6c3e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\500f8d239fbeb2e729cd71f8f5e7fb0334bdeeb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_c2851fe97f6e52805accdbd910f5495a70cf52c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\02fe28c5da919bf3cb61af31063b4756fd81d574\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e862c5a98686a0594044410ffb09c2a0da6c3e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\c120993d4f05907e3cb4946b559768fa8d4bbc83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f960fad986b2f21d7442aba7568181ce35b73495\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\c120993d4f05907e3cb4946b559768fa8d4bbc83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_f960fad986b2f21d7442aba7568181ce35b73495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\5989b12ab809fc2b82a4fb163291882503382938\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_fd49b0b4f3ea0a7c07fcdbdd3ce0ea6ce53731c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\f6147012f5cb71d709972cd1d3337423e053b798\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9300ab0686c15280efb4727b64357d4c16d3ffb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_79dbef0bc17fa6668f078242f560346d23f28f1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_79dbef0bc17fa6668f078242f560346d23f28f1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\5989b12ab809fc2b82a4fb163291882503382938\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd49b0b4f3ea0a7c07fcdbdd3ce0ea6ce53731c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\579d7d653feb68602d47956d814c50fab8fcddb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_bd6fbf96eddb03fabcf19dc30a19ba9adec8ef11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\579d7d653feb68602d47956d814c50fab8fcddb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd6fbf96eddb03fabcf19dc30a19ba9adec8ef11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f45123914ee645e299738a71b89fc204cb18a6c9">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff942fcf597a3d163356972ec819111e9dd28bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5ea632c39221106ac6f12fd6975a88acff56455a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\a9018f194c1388ea3773d997957cd1191dae1e6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5b0cf63ac62692f018afded6b6baf234ca5d551\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\bd6b8d3c85f9e76128d8b26fdb49be5e6d606146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_72519c2cfbac9a5fef5b2925e5c7d1fc641bd5fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\5ed2877ece0f1a56256a1b2ce4d4a57351bc283c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0da94c3bc8311a93d10710455a88b5bb2b8c8c58\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\f6147012f5cb71d709972cd1d3337423e053b798\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_9300ab0686c15280efb4727b64357d4c16d3ffb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\camargo\.android\build-cache\5ed2877ece0f1a56256a1b2ce4d4a57351bc283c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\pre-dexed\release\classes_0da94c3bc8311a93d10710455a88b5bb2b8c8c58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camargo\.android\build-cache\bd6b8d3c85f9e76128d8b26fdb49be5e6d606146\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\camargo\Desktop\FIDapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72519c2cfbac9a5fef5b2925e5c7d1fc641bd5fd\classes.dex" />
+    </item>
+
+</items>

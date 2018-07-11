@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.micdev.fidapp.TicketInfoActivity"
+    tools:showIn="@layout/app_bar_ticket_info"
+    android:background="@drawable/background_img_fundo"
+    android:paddingBottom="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewNomeEvento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:textSize="27sp"
+            android:textColor="@color/textColor"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textViewDescricaoEvento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Descrição: "
+            android:textSize="20sp"
+            android:textColor="@color/textColor"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textViewDataEvento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Data: "
+            android:textSize="20sp"
+            android:textColor="@color/textColor"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textViewLocalEvento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Local: "
+            android:textSize="20sp"
+            android:textColor="@color/textColor"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/textViewVencimentoEvento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ticket vence dia "
+            android:textSize="20sp"
+            android:textColor="@color/textColor"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <WebView
+                android:id="@+id/webViewQRCode"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+            </WebView>
+
+            <Space
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/buttonRevogar"
+                    style="@style/button_style"
+                    android:layout_width="200dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:text="Não quero ir!"
+                    android:onClick="revogarTicket"/>
+            </LinearLayout>
+
+            <Space
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

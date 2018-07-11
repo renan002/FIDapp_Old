@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home_white_24dp"
+            android:title="Meus Tickets" />
+        <item
+            android:id="@+id/nav_add_evento"
+            android:icon="@mipmap/ic_add_white_24dp"
+            android:title="Adicionar Evento" />
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@mipmap/ic_call_white_24dp"
+            android:title="Contato" />
+        <item
+            android:id="@+id/nav_configs"
+            android:icon="@mipmap/ic_settings_white_24dp"
+            android:title="Configurações" />
+    </group>
+</menu>
